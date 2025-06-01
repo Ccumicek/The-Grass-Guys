@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="description" content="The Grass Guys - Lawn Care & Mulching Services in Green Bay, WI" />
+<title>The Grass Guys | Green Bay Lawn Care</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+line-height: 1.6;
+background: #f4f4f4;
+}
+header {
+background: #4CAF50;
+color: white;
+padding: 1rem;
+text-align: center;
+}
+nav {
+text-align: center;
+margin: 1rem 0;
+}
+nav a {
+margin: 0 1rem;
+color: #4CAF50;
+text-decoration: none;
+}
+.container {
+max-width: 960px;
+margin: auto;
+padding: 1rem;
+background: white;
+}
+.services ul {
+list-style: none;
+padding: 0;
+}
+.services ul li {
+background: #e2e2e2;
+margin: 0.5rem 0;
+padding: 0.5rem;
+border-radius: 4px;
+}
+.contact-form {
+background: #f9f9f9;
+padding: 1rem;
+border: 1px solid #ddd;
+border-radius: 4px;
+}
+.contact-form input, .contact-form textarea {
+width: 100%;
+padding: 0.5rem;
+margin-bottom: 0.5rem;
+border: 1px solid #ccc;
+border-radius: 4px;
+}
+.contact-form button {
+background: #4CAF50;
+color: white;
+padding: 0.5rem 1rem;
+border: none;
+border-radius: 4px;
+cursor: pointer;
+}
+footer {
+background: #333;
+color: white;
+text-align: center;
+padding: 1rem;
+margin-top: 2rem;
+}
+</style>
+</head>
+<body>
+<header>
+<h1>The Grass Guys</h1>
+<p>Green Bay's Local Lawn Care & Mulch Pros</p>
+<p><strong>Call Us:</strong> <a href="tel:9202477745" style="color: white;">(920) 247-7745</a> or <a href="tel:9202558701" style="color: white;">(920) 255-8701</a></p>
+</header>
+
+<div class="container">
+<section class="about">
+<h2>About Us</h2>
+<p>We're The Grass Guys — three local friends offering full-time lawn care, mulching, and yard cleanup services in Green Bay, WI and within 15 miles. We’re proud to deliver top-quality, affordable outdoor care with a smile.</p>
+</section>
+
+<section class="services">
+<h2>Our Services</h2>
+<ul>
+<li>Lawn mowing</li>
+<li>Mulch delivery & installation</li>
+<li>Trimming & edging</li>
+<li>Weed removal</li>
+<li>Seasonal cleanups</li>
+<li>Yard debris removal</li>
+</ul>
+</section>
+
+<section class="quote">
+<h2>Request a Free Quote</h2>
+<form class="contact-form">
+<input type="text" name="name" placeholder="Your Name" required />
+<input type="email" name="email" placeholder="Your Email" required />
+<input type="tel" name="phone" placeholder="Your Phone Number" required />
+<textarea name="message" placeholder="Tell us about your yard..." rows="4"></textarea>
+<button type="submit">Send Request</button>
+</form>
+</section>
+
+<section class="contact">
+<h2>Contact Us</h2>
+<p>Email: <a href="mailto:CarterCumicek538@gmail.com">CarterCumicek538@gmail.com</a></p>
+<p>Service Area: Green Bay, Ashwaubenon, De Pere, Howard, Bellevue, Allouez, Hobart & more</p>
+</section>
+</div>
+
+<footer>
+<p>&copy; 2025 The Grass Guys | Green Bay, WI</p>
+</footer>
+</body>
+</html>
